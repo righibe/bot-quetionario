@@ -3,7 +3,7 @@
         {
             "question": "Qual é a saída de print(2 ** 3)?",
             "options": [
-                "5",
+                "5", 
                 "6",
                 "8",
                 "9"
